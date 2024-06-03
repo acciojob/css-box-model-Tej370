@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box {
+   margin: 20px;
+   background-color: lightblue;
+border: 15px solid blue;
+padding: 50px;
+margin: 20px;
+box-sizing: border-box;
+}
